@@ -1,106 +1,121 @@
-# Hi there 👋
-## I'm Vikas Dev Pandey
-### GenAI Full Stack · ML Engineer | B.Tech AI & Cloud Computing
+<div align="center">
+
+# Hi, I'm Vikas Dev Pandey 👋
+
+### MERN Stack & AI-Integrated Full-Stack Developer
+
+Building production-grade web apps and AI agent systems with React, Node.js, FastAPI & LLM orchestration
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasdev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikasdev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pandeyvikasdev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaspandey0234@gmail.com)
+
+</div>
 
 ---
 
-### 💻 About Me
+## 🚀 About Me
 
-- 🎓 Final year B.Tech student in **Artificial Intelligence & Cloud Computing** at United University, Prayagraj (CGPA: 8.5)
-- 🤖 Building at the intersection of **Generative AI, Reinforcement Learning, and Full Stack Engineering**
-- 🧠 Deep interest in **LLMs, RAG pipelines, multi-agent RL, and transformer architectures**
-- 🚀 Passionate about shipping production-grade AI-powered systems end-to-end
-- 📫 Reach me at: vikaspandey0234@gmail.com | +91 9026358221
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** Python | JavaScript | SQL | C++
-
-**ML / AI:** PyTorch · TensorFlow · Keras · Scikit-learn · Transformers · CNNs · RNNs · LSTMs · RAG · Fine-tuning · FinBERT · OpenAI Gym
-
-**Backend:** FastAPI · Flask · Django · Node.js · Express.js
-
-**Frontend:** React.js · Next.js · HTML5 · CSS3 · Tailwind CSS
-
-**Databases:** PostgreSQL · MongoDB · SQL
-
-**Tools & Platforms:** Docker · AWS EC2 · Git · GitHub · Postman · VS Code
+- 🎓 2026 B.Tech CSE graduate — **AI/ML & Cloud Computing**, United University, Prayagraj (CGPA: 8.6/10)
+- 💼 Freelance Full Stack Developer (MERN) — building and shipping client applications end-to-end since Jan 2024
+- 🤖 Deep focus on **LLM orchestration, RAG pipelines, and AI agent systems** (LangChain, FAISS, tool-calling)
+- 🏗️ I own the full lifecycle: database design → backend → frontend → deployment
+- 🏆 IBM Day Hackathon Winner · Meta PyTorch OpenEnv Hackathon Finalist (Top 2.6% of 31,000+ teams)
+- 📫 Reach me at **vikaspandey0234@gmail.com**
 
 ---
 
-### 🎯 Expertise
+## 🛠️ Tech Stack
 
-- Generative AI & LLM Application Development
-- Reinforcement Learning (PPO, DDPG, A2C) & Portfolio Optimization
-- Full Stack Development (MERN · FastAPI · Next.js)
-- RAG Pipelines & Transformer Fine-tuning
-- Multi-Agent Systems & Custom RL Environments
-- RESTful API Design, JWT Auth & RBAC
-- Data Structures & Algorithms
+**Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**AI / LLM**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI%2FGemini-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS%20RAG-4B8BBE?style=flat-square)
 
-### 📈 Featured Projects
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- **🧠 AI Portfolio Optimization System** — PyTorch · FastAPI · React · FinBERT · OpenAI Gym · Transformers
-  - Transformer encoders + PPO/DDPG/A2C for dynamic portfolio allocation on live market data
-  - Stable mean reward ~68.36 with consistent convergence over 50K+ timesteps
-  - FinBERT sentiment analysis integrated into feature engineering pipeline
-  - Real-time inference <120ms via FastAPI + React frontend
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-- **🏢 Canvaas – Multi-Tenant SaaS** — Node.js · Express · PostgreSQL · React · Stripe · JWT
-  - CRM workflows, automation pipelines, real-time analytics with RBAC
-  - End-to-end Stripe subscription billing
-  - API response time cut by 35–45% via backend optimization
-
-- **🎙️ VoiceFlow – Offline Voice AI System** — Whisper AI · Electron · Node.js · React
-  - Real-time offline voice-to-text with 50–60% reduction in transcription latency
-  - Fully local cross-platform desktop app — zero external API dependency
-
----
-
-### 🏆 Achievements
-
-- 🥇 **Winner – IBM Day Hackathon (AI/ML Track):** 1st place for an AI/ML-based solution
-- 🏅 **Finalist – Meta PyTorch OpenEnv Hackathon:** Ranked Top ~2.6% (800 / 31,000+ teams) across India
-- 💻 **LeetCode:** 250+ problems solved · Rating: 1476
-- ⭐ **HackerRank:** 5 Star in Python · 4 Star in Problem Solving
+**Databases & Infra**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🔬 Experience
+## 🌟 Featured Projects
 
-**Research Intern – United University** *(Sep 2024 – May 2025)*
-Reinforcement Learning & Portfolio Optimization
-- Hybrid LSTM + multi-agent RL (PPO, DDPG, A2C) for portfolio management
-- Cut prediction error (MSE/RMSE) by 15–25%; improved reward convergence by 25–35%
-- Optimized training pipeline to 72–94 FPS; 50K-timestep cycle in ~31 min
+### 🧠 [GenAI Engine — Self-Hosted AI Agent Platform](https://github.com/vikasdev)
+`FastAPI` `LangChain` `Gemini` `FAISS` `PostgreSQL` `Redis` `React` `Docker`
+- Production-ready self-hosted AI assistant with LangChain agent tool-calling and multi-turn SSE-streamed chat
+- RAG pipeline using FAISS vector search over per-user document indexes (PDF/DOCX/TXT)
+- Multi-service architecture (FastAPI + React + PostgreSQL + Redis + Nginx) orchestrated via Docker Compose
+- Sandboxed agent tools (web search, file I/O, whitelisted shell access) with per-user isolation & Redis rate limiting
 
-**Full Stack Developer Intern – PGOI** *(Sep 2023 – Dec 2023)*
-MERN Stack
-- Built scalable MERN applications with modular backend architecture
-- Reduced backend response latency by 30–40% and frontend load speed by ~25%
+### 🏢 [Canvaas — Multi-Tenant SaaS Platform](https://github.com/vikasdev)
+`Next.js` `Prisma/MySQL` `Clerk` `Stripe` `Tailwind`
+- Multi-tenant backend supporting 100+ users with isolated agency/sub-account workflows & RBAC
+- CRM, sales pipeline, and funnel-builder modules with real-time analytics dashboards
+- Clerk auth + Stripe subscription billing, deployed across 35+ production releases on Vercel
+- Cut manual operations by 40%+ through API-driven automation
 
----
-
-### 📞 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasdev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pandeyvikasdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/vikasdev)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas-dev-123&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-dev-123&layout=compact&theme=dark)
+### 📄 [OfferBoost (ResumeForge AI) — AI Resume Builder SaaS](https://github.com/vikasdev)
+`Next.js` `TypeScript` `Prisma/PostgreSQL` `NextAuth` `Gemini/OpenRouter`
+- JD-analysis pipeline extracting ATS keywords, technologies, and role type from job descriptions
+- Pluggable AI provider architecture (Gemini, OpenRouter, Ollama) with deterministic fallback
+- Custom ATS scoring engine with multi-mode resume rewriting (strict/enhanced/aggressive/creative)
+- PDF/DOCX export, version history, shareable links, and cover letter generation
 
 ---
 
-> *"Building intelligent systems that work in the real world."*
+## 🏆 Achievements
 
+| 🏅 | Achievement |
+|---|---|
+| 🥇 | **Winner** — IBM Day Hackathon (AI/ML Track) |
+| 🎯 | **Finalist** — Meta PyTorch OpenEnv Hackathon (Top ~2.6% · 800/31,000+ teams, India) |
 
-*Let's build something amazing together! Feel free to reach out for collaborations or just a friendly chat.*
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasdev&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasdev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+I'm always open to collaborating on AI-powered products, full-stack builds, or freelance work.
+
+📧 **vikaspandey0234@gmail.com** · 📱 **+91 9026358221**
+
+*"Building intelligent systems that work in the real world."*
+
+</div>
